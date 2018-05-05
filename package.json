@@ -1,0 +1,23 @@
+{
+  "name": "nymagpies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliewolff20/nymagpies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nataliewolff20/nymagpies/issues"
+  },
+  "homepage": "https://github.com/nataliewolff20/nymagpies#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
